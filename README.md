@@ -5,7 +5,7 @@
 1. IntelliJ IDEA Community Version
   - https://www.jetbrains.com/idea/download/#section=windows
 2. Java Development Kit (Adobe OpenJDK)
-3. demo.zip
+3. [demo.zip](./demo.zip)
 
 ## URL ที่ต้องขอ Access Internet
     -  https://repo.maven.apache.org/
